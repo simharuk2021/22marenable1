@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 something added
 a new line
+=======
+asdasd
+>>>>>>> dev
