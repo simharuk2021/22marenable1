@@ -26,4 +26,4 @@
 
 ### Running the project
 
-- Run the python programme by using the command `python3 pass_gen.py'
+- Run the python programme by using the command `python3 pass_gen.py`
