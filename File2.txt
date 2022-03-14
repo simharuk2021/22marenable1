@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 something added
 a new line
-=======
 asdasd
->>>>>>> dev
+Hi there I am making some changes
